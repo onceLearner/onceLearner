@@ -5,7 +5,7 @@
 ## My name is  Mohammed El Issati  
 
 - 🔭 I’m currently working with  Next.js || React, Nodejs , TailwindCss, 
-- 🌱 I’m currently learning On an online Event Manager 🎇 
+- 🌱 I’m currently working On an online Event Manager 🎇 
 - 👯 I’m looking to collaborate on  Open source projects...
 - 💬 Ask me about React && Next Js , Nodejs  
 - 📫 How to reach me: mohamedelissati28@gmail.com 
